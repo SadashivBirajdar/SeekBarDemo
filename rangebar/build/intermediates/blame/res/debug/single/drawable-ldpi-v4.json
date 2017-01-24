@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/data/EMBITEL/emb-sadabir/AndroidStudioProjects/SeekBarDemo/rangebar/build/intermediates/res/merged/debug/drawable-ldpi-v4/default_pin_image.png",
+        "source": "/data/EMBITEL/emb-sadabir/AndroidStudioProjects/SeekBarDemo/rangebar/build/generated/res/pngs/debug/drawable-ldpi/default_pin_image.png"
+    },
+    {
+        "merged": "/data/EMBITEL/emb-sadabir/AndroidStudioProjects/SeekBarDemo/rangebar/build/intermediates/res/merged/debug/drawable-ldpi-v4/symptom_pin_image.png",
+        "source": "/data/EMBITEL/emb-sadabir/AndroidStudioProjects/SeekBarDemo/rangebar/build/generated/res/pngs/debug/drawable-ldpi/symptom_pin_image.png"
+    },
+    {
+        "merged": "/data/EMBITEL/emb-sadabir/AndroidStudioProjects/SeekBarDemo/rangebar/build/intermediates/res/merged/debug/drawable-ldpi-v4/pin_image.png",
+        "source": "/data/EMBITEL/emb-sadabir/AndroidStudioProjects/SeekBarDemo/rangebar/build/generated/res/pngs/debug/drawable-ldpi/pin_image.png"
+    }
+]
